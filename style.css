@@ -23,9 +23,11 @@ body {
 h2 {
   font-family: 'Satisfy', cursive;
   color: rgba(229, 240, 192, 1);
+  text-align: center;
 }
 p1 {
   color: rgba(229, 240, 192, 1);
+  text-align: center;
 }
 .jumbotron-fluid {
   background-color: rgba(12, 38, 38, 0.60);

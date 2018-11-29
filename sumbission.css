@@ -1,0 +1,11 @@
+body {
+  background-image: url(background_img2.jpg);
+}
+.container {
+  background-color: rgba(0,0,38,.75)
+}
+.jumbotron-fluid {
+  text-align: center;
+  background-color: rgba(12, 38, 38, 0.60);
+  color: rgba(229, 240, 192, 1);
+}

@@ -1,0 +1,7 @@
+body{
+  background-image: url(background_img2.jpg);
+}
+.container {
+  color: rgba(229, 240, 192, 1);
+  background-color: rgba(12, 38, 38, 0.60);
+}

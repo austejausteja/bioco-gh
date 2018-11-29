@@ -6,6 +6,7 @@ body{
   background-color: rgba(12, 38, 38, 0.60);
 }
 h2 {
+  font-size: 50px;
   font-family: 'Satisfy', cursive;
 }
 h5{
@@ -13,4 +14,8 @@ h5{
 }
 p {
   text-align: center;
+}
+img {
+  height: 300px;
+  width: 240px;
 }

@@ -8,6 +8,11 @@ p {
 p2 {
   text-align:right;
 }
+h6 {
+  text-align: center;
+  color: rgba(229, 240, 192, 1 );
+  font-size: 60px;
+}
 .container {
   background-color: rgba(245, 241, 248, 0.80);
 }

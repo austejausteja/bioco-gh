@@ -1,7 +1,13 @@
 body {
-  background-image: url(background_img3.jpg);
+  background-image: url(background_img4.jpg);
 }
 .jumbotron-fluid{
-  color:rgb(148, 197, 157, 1);
-  background-color: rgba(12, 38, 38, 0.60);
+  color:rgba(229, 240, 192, 1);
+  background-color: rgba(4, 4, 6, 0.74);
+}
+.container{
+  font-family: 'Monda', sans-serif;
+  font-size: 23px;
+  font-weight: bolder;
+
 }

@@ -1,9 +1,17 @@
+.jumbotron {
+  background-color: rgba(12, 38, 38, 0.90);
+}
 h1 {
   text-align: center;
-  font-size: 90px;
+  font-size: 100px;
+  font-weight: bold;
+  font-family: 'Monoton', cursive;
 }
 h4 {
   text-align: center;
+  font-size: 40px;
+  font-family: 'Permanent Marker', cursive;
+  color: rgba(229, 240, 192, 1 );
 }
 body {
   background-repeat: no-repeat;
@@ -21,4 +29,10 @@ p1 {
 }
 .jumbotron-fluid {
   background-color: rgba(12, 38, 38, 0.60);
+}
+.nav-link{
+  font-size: 30px;
+  font-weight: bolder;
+  font-family: 'Monoton', cursive;
+  color: rgba(22, 18, 22, 0.98);
 }
